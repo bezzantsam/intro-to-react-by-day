@@ -15,8 +15,8 @@ function App() {
       <table width="100%">
         <tbody>
           <tr>
-            <td>Bulbasaur</td>
-            <td>Grass, Poison</td>
+            <th>Bulbasaur</th>
+            <th>Grass, Poison</th>
           </tr>
         </tbody>
       </table>
